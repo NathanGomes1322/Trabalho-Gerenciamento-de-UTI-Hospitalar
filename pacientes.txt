@@ -1,0 +1,300 @@
+Nome: NATHAN CARLOS GOMES
+Nascimento: 22/04/2003
+Cidade: São Paulo
+Nome da mãe: ALINE SANTOS
+Prioridade: 1
+-----------------------------
+Nome: MARIANA LUCIA ALMEIDA
+Nascimento: 15/09/1990
+Cidade: Rio de Janeiro
+Nome da mãe: FABIANA COSTA
+Prioridade: 0
+-----------------------------
+Nome: RAFAEL HENRIQUE SALES
+Nascimento: 03/12/1985
+Cidade: Belo Horizonte
+Nome da mãe: CLARA MENEZES
+Prioridade: 4
+-----------------------------
+Nome: ISABELA SOUZA PEREIRA
+Nascimento: 28/02/1995
+Cidade: Curitiba
+Nome da mãe: LUIZA CARVALHO
+Prioridade: 3
+-----------------------------
+Nome: GUSTAVO MENEZES RIBEIRO
+Nascimento: 10/07/1988
+Cidade: Porto Alegre
+Nome da mãe: JULIANA MOTA
+Prioridade: 0
+-----------------------------
+Nome: ANA CLARA FERNANDES
+Nascimento: 06/01/2001
+Cidade: Fortaleza
+Nome da mãe: MARINA SILVA
+Prioridade: 4
+-----------------------------
+Nome: LUIS EDUARDO COSTA
+Nascimento: 19/11/1979
+Cidade: Recife
+Nome da mãe: RENATA ALVES
+Prioridade: 1
+-----------------------------
+Nome: PAULA REGINA MACHADO
+Nascimento: 30/06/1982
+Cidade: Salvador
+Nome da mãe: VERA OLIVEIRA
+Prioridade: 2
+-----------------------------
+Nome: BRUNO LOPES BARBOSA
+Nascimento: 12/03/1998
+Cidade: Goiânia
+Nome da mãe: TATIANA PEREIRA
+Prioridade: 0
+-----------------------------
+Nome: CARLA BEATRIZ AMARAL
+Nascimento: 25/08/1975
+Cidade: Manaus
+Nome da mãe: SANDRA MENDES
+Prioridade: 2
+-----------------------------
+Nome: MARIO ALEXANDRE RODRIGUES
+Nascimento: 04/04/1969
+Cidade: Belém
+Nome da mãe: FERNANDA DIAS
+Prioridade: 3
+-----------------------------
+Nome: TATIANA MARQUES NUNES
+Nascimento: 17/10/1992
+Cidade: Vitória
+Nome da mãe: PRISCILA CUNHA
+Prioridade: 4
+-----------------------------
+Nome: EDUARDO VIEIRA SANTOS
+Nascimento: 09/05/1986
+Cidade: Florianópolis
+Nome da mãe: ALESSANDRA FREITAS
+Prioridade: 0
+-----------------------------
+Nome: CLARA SOUZA LIMA
+Nascimento: 01/01/2000
+Cidade: Campo Grande
+Nome da mãe: MARINA LIMA
+Prioridade: 3
+-----------------------------
+Nome: FERNANDO PONTES ARAUJO
+Nascimento: 21/02/1977
+Cidade: São Luís
+Nome da mãe: PAOLA GOMES
+Prioridade: 1
+-----------------------------
+Nome: VERA LUCIA PINHEIRO
+Nascimento: 14/07/1965
+Cidade: Maceió
+Nome da mãe: SUSANA CASTRO
+Prioridade: 0
+-----------------------------
+Nome: HUGO ANDRÉ TEIXEIRA
+Nascimento: 08/09/1994
+Cidade: Natal
+Nome da mãe: ADRIANA RIBEIRO
+Prioridade: 2
+-----------------------------
+Nome: LARISSA MORAES CARVALHO
+Nascimento: 26/11/1999
+Cidade: João Pessoa
+Nome da mãe: KARINA SILVA
+Prioridade: 3
+-----------------------------
+Nome: RICARDO OLIVEIRA FIGUEIREDO
+Nascimento: 02/06/1983
+Cidade: Aracaju
+Nome da mãe: JÉSSICA SOUZA
+Prioridade: 4
+-----------------------------
+Nome: NADIA CRISTINA SANTOS
+Nascimento: 11/08/1978
+Cidade: Teresina
+Nome da mãe: PRISCILA COSTA
+Prioridade: 1
+-----------------------------
+Nome: MATEUS GONÇALVES BARROS
+Nascimento: 29/03/1996
+Cidade: Palmas
+Nome da mãe: LÍDIA FREITAS
+Prioridade: 0
+-----------------------------
+Nome: JULIANA PAIVA RIBEIRO
+Nascimento: 07/12/1989
+Cidade: Cuiabá
+Nome da mãe: SANDRA ALMEIDA
+Prioridade: 4
+-----------------------------
+Nome: SEBASTIÃO ALVES MOTA
+Nascimento: 23/10/1962
+Cidade: Rio Branco
+Nome da mãe: JULIANA BARROS
+Prioridade: 3
+-----------------------------
+Nome: YASMIN ROCHA DUARTE
+Nascimento: 16/05/2002
+Cidade: Boa Vista
+Nome da mãe: FABIANA TEIXEIRA
+Prioridade: 1
+-----------------------------
+Nome: OTÁVIO LIMA COSTA
+Nascimento: 05/02/1974
+Cidade: Macapá
+Nome da mãe: RAQUEL LIMA
+Prioridade: 2
+-----------------------------
+Nome: RENATA BORGES FRANCO
+Nascimento: 13/09/1987
+Cidade: Porto Velho
+Nome da mãe: MARTA OLIVEIRA
+Prioridade: 0
+-----------------------------
+Nome: DANIELA FREITAS MEDEIROS
+Nascimento: 31/07/1991
+Cidade: Palmas
+Nome da mãe: SANDRA COSTA
+Prioridade: 3
+-----------------------------
+Nome: PAULO CESAR SANTOS
+Nascimento: 20/11/1968
+Cidade: Rio de Janeiro
+Nome da mãe: VIVIANE PEREIRA
+Prioridade: 4
+-----------------------------
+Nome: ERICA MOREIRA NOGUEIRA
+Nascimento: 27/01/1993
+Cidade: São Paulo
+Nome da mãe: MARIA OLIVEIRA
+Prioridade: 0
+-----------------------------
+Nome: LEONARDO VASCONCELOS PAZ
+Nascimento: 18/04/1997
+Cidade: Belo Horizonte
+Nome da mãe: CLÁUDIA MOTA
+Prioridade: 2
+-----------------------------
+Nome: SILVIA TAVARES LIMA
+Nascimento: 24/06/1980
+Cidade: Curitiba
+Nome da mãe: JULIANA LIMA
+Prioridade: 1
+-----------------------------
+Nome: MARCOS ANTÔNIO GARCIA
+Nascimento: 02/08/1971
+Cidade: Porto Alegre
+Nome da mãe: ALINE FREITAS
+Prioridade: 3
+-----------------------------
+Nome: AMANDA BORGES LEAL
+Nascimento: 09/03/1999
+Cidade: Fortaleza
+Nome da mãe: FERNANDA BARROS
+Prioridade: 4
+-----------------------------
+Nome: FÁBIO RIBEIRO MOURA
+Nascimento: 15/05/1984
+Cidade: Recife
+Nome da mãe: SUSANA MOTA
+Prioridade: 0
+-----------------------------
+Nome: KARINA PEREIRA SÁ
+Nascimento: 01/10/1995
+Cidade: Salvador
+Nome da mãe: LÚCIA COSTA
+Prioridade: 3
+-----------------------------
+Nome: VITOR HUGO ANDRADE
+Nascimento: 12/12/2000
+Cidade: Goiânia
+Nome da mãe: MARTA SILVA
+Prioridade: 1
+-----------------------------
+Nome: LUIZA HELENA COSTA
+Nascimento: 04/11/1986
+Cidade: Manaus
+Nome da mãe: PRISCILA ALMEIDA
+Prioridade: 4
+-----------------------------
+Nome: ALEXANDRE MARTINS OLIVEIRA
+Nascimento: 30/09/1976
+Cidade: Belém
+Nome da mãe: FERNANDA PINTO
+Prioridade: 0
+-----------------------------
+Nome: SOPHIA PIMENTA LEITE
+Nascimento: 22/02/2004
+Cidade: Vitória
+Nome da mãe: RAQUEL DIAS
+Prioridade: 2
+-----------------------------
+Nome: NELSON BRITO VALENTE
+Nascimento: 06/06/1958
+Cidade: Maceió
+Nome da mãe: LÚCIA BARBOSA
+Prioridade: 1
+-----------------------------
+Nome: BEATRIZ CASTRO NUNES
+Nascimento: 03/07/1992
+Cidade: Maceió
+Nome da mãe: CARLA SILVA
+Prioridade: 3
+-----------------------------
+Nome: GABRIELA MOTA SIQUEIRA
+Nascimento: 28/01/1990
+Cidade: Teresina
+Nome da mãe: SANDRA TEIXEIRA
+Prioridade: 4
+-----------------------------
+Nome: HEITOR COSTA ALVES
+Nascimento: 17/04/1981
+Cidade: Palmas
+Nome da mãe: FERNANDA FREITAS
+Prioridade: 0
+-----------------------------
+Nome: MARCELO RODRIGUES PINTO
+Nascimento: 11/08/1973
+Cidade: Palmas
+Nome da mãe: PRISCILA MORAES
+Prioridade: 1
+-----------------------------
+Nome: LÍVIA XAVIER MOREIRA
+Nascimento: 29/09/1998
+Cidade: Cuiabá
+Nome da mãe: ANA LIMA
+Prioridade: 3
+-----------------------------
+Nome: DIEGO PEREIRA MOTA
+Nascimento: 14/03/1989
+Cidade: Campos
+Nome da mãe: LÚCIA MOTA
+Prioridade: 2
+-----------------------------
+Nome: PALOMA SERRA DIAS
+Nascimento: 07/05/1994
+Cidade: Campinas
+Nome da mãe: ALINE ALVES
+Prioridade: 0
+-----------------------------
+Nome: CAIO ANDRÉ LINS
+Nascimento: 25/10/2001
+Cidade: Fortaleza
+Nome da mãe: PAOLA OLIVEIRA
+Prioridade: 4
+-----------------------------
+Nome: RENAN FIGUEIRA BARROS
+Nascimento: 19/12/1982
+Cidade: Rio de Janeiro
+Nome da mãe: CLARA SANTOS
+Prioridade: 2
+-----------------------------
+Nome: ELISA MOREIRA AMORIM
+Nascimento: 08/11/1970
+Cidade: São Paulo
+Nome da mãe: FERNANDA LIMA
+Prioridade: 1
+-----------------------------
